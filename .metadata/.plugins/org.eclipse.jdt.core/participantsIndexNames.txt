@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+E:\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\800469207.index
+\123\src
+E:\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2853596507.index
+\123456\src
+E:\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1330069787.index
+\wtf\src
+E:\JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\796782586.index
+\wtf\src
