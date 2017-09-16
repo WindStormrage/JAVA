@@ -1,2 +1,2 @@
 # JAVA
-java学习题目
+this is a java hello world demo
