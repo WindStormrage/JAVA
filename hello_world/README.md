@@ -1,3 +1,2 @@
-##Hello World demo
-
-this is a java Hello World demo
+# JAVA
+java学习题目
